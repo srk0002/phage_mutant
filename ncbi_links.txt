@@ -1,0 +1,7 @@
+Salmonella Newport Parent isolate 3596
+
+www.ncbi.nlm.nih.gov/sra/SRR2104591
+
+Salmonella Newport Phage-Resistant isolate 3596-1.3.1
+
+www.ncbi.nlm.nih.gov/sra/SRR1752832
