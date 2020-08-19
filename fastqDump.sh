@@ -6,7 +6,7 @@
 ##########Queue Information Based on SampleTest Data###########
 #Core=1 Mem=1gb (efficiency a for test_sample1 was 0.49% at 2gb) Wall time=Default (runtime for test_sample1 was 7 minutes)
 ##########Make Sample List Array##
-declare -a sample_list=("SRR1752832")
+declare -a sample_list=("SRR2104591" "SRR1752832")
 
 ##########Variables###############
 #sample_list= assigned earlier by array in above script
